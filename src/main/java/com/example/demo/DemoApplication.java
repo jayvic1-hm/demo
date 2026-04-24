@@ -19,7 +19,7 @@ public class DemoApplication {
     }
 
     public String getStatus() {
-        return "Application is running";
+        return "I want Conflict";
     }
 
 
