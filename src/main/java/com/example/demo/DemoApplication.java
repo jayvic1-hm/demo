@@ -26,9 +26,4 @@ public class DemoApplication {
         return "I want Conflict1";
     }
 
-    public String getA() {
-        return "A";
-    }
-
-
 }
