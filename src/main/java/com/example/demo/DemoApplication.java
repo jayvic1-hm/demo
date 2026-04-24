@@ -26,4 +26,8 @@ public class DemoApplication {
         return "A";
     }
 
+    public String getB() {
+        return "B";
+    }
+
 }
