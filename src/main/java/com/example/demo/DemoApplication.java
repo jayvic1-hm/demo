@@ -22,8 +22,8 @@ public class DemoApplication {
         return "I want Conflict";
     }
 
-    public String getStatus1() {
-        return "I want Conflict1";
+    public String getC() {
+        return "C";
     }
 
 }
